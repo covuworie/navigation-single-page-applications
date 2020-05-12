@@ -1,6 +1,6 @@
 # Navigation for Single Page Applications
 
-The code in this repository is effectively forked from the [navigation](https://github.com/curran/screencasts/tree/gh-pages/navigation) directory of this screencast repository. See the comments from the original author below. The only difference is here I decide to follow through using typescript instead.
+The code in this repository is effectively forked from the [navigation](https://github.com/curran/screencasts/tree/gh-pages/navigation) directory of this screencast repository. See the comments from the original author below. The only difference is here I decide to follow through using typescript instead. I also add a bonus snapshot at the end using the [History API](https://developer.mozilla.org/en-US/docs/Web/API/History_API) in conjunction with the page `href` to do the routing instead of using `fragment identifiers`.
 
 ## Running the code
 
